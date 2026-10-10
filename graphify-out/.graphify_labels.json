@@ -1,0 +1,12 @@
+{
+  "0": "page.tsx",
+  "1": "compilerOptions",
+  "2": "scripts",
+  "3": "devDependencies",
+  "4": "site.ts",
+  "5": "index.html → Next.js Conversion Template",
+  "6": "include",
+  "7": "SiteHeader.tsx",
+  "8": "next.config.ts",
+  "9": "eslint.config.mjs"
+}
